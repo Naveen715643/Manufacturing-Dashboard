@@ -56,7 +56,7 @@ This dashboard provides a "single source of truth" for tracking efficiency, iden
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+Dashboard Preview : https://github.com/Naveen715643/Manufacturing-Dashboard/tree/main/Screenshots%20Manufacturing%20Dashboard
 
 
 

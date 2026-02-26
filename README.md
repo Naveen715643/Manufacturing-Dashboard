@@ -62,7 +62,7 @@ Dashboard Preview : https://github.com/Naveen715643/Manufacturing-Dashboard/tree
 
 ## 📂 File Information
 
-* Main Dashboard File: https://github.com/Naveen715643/Manufacturing-Dashboard/blob/main/Manufacturing%20Dashboard.pbix
+* Main Dashboard File: https://github.com/Naveen715643/Manufacturing-Dashboard/blob/main/Manufacturing%20Dashboard.pbit
 * Developed for Manufacturing Analytics use case
 
 ---

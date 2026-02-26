@@ -56,13 +56,13 @@ This dashboard provides a "single source of truth" for tracking efficiency, iden
 
 ## 📷 Dashboard Preview
 
-Dashboard Preview : https://github.com/Naveen715643/Manufacturing-Dashboard/tree/main/Screenshots%20Manufacturing%20Dashboard
+[Dashboard Preview](https://github.com/Naveen715643/Manufacturing-Dashboard/tree/main/Images)
 
 
 
 ## 📂 File Information
 
-* Main Dashboard File: https://github.com/Naveen715643/Manufacturing-Dashboard/blob/main/Manufacturing%20Dashboard.pbit
+* [Main Dashboard File](https://github.com/Naveen715643/Manufacturing-Dashboard/blob/main/Manufacturing%20Dashboard.pbit)
 * Developed for Manufacturing Analytics use case
 
 ---
